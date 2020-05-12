@@ -2,7 +2,9 @@
 ### I will publish all my dash sample code here.**
 
 
-_The first app is a movie application. You can find the movies you may be interested in from this application. In addition to that, it also provide basic analysis on the trend of movies over the years._
+_The first app is a movie application. The data is from Kaggle IMDB movie data. I am learning and referencing a dash sample application from dash gallery to build this app.
+
+_You can find the movies you may be interested in from this application. In addition to that, it also provide basic analysis on the trend of movies over the years.
 
 
 
