@@ -1,10 +1,10 @@
 # Let-s-dash
-I will publish all my dash sample code here. 
+**I will publish all my dash sample code here.**
 
 The first app is a movie application. You can find the movies that you are interested in from this application, and it also provide some analysis on the trend of movies over the years.
 
 
-Please reference the screenshots below:
+**Please reference the screenshots below:**
 
 ![screenshot1](https://github.com/Callieeee/Let-s-dash/blob/master/my-movie-app/Dash%20Practice/assets/Screen%20Shot%201.png)
 
