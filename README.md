@@ -1,8 +1,8 @@
 # Let-s-dash
-**I will publish all my dash sample code here.**
+### I will publish all my dash sample code here.**
 
 
-_The first app is a movie application. You can find the movies that you are interested in from this application, and it also provide some analysis on the trend of movies over the years._
+_The first app is a movie application. You can find the movies you may be interested in from this application. In addition to that, it also provide basic analysis on the trend of movies over the years._
 
 
 
