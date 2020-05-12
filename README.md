@@ -1,5 +1,5 @@
 # Let-s-dash
-### I will publish all my dash sample code here.**
+### I will publish all my dash sample code in this repository.
 
 
 This is my first appilcation built using dash. The data I am using is from Kaggle IMDB movie data. I built this app by learning and referencing a dash sample application from dash gallery. It helped me get familiar with dash.
