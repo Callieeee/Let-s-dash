@@ -2,9 +2,9 @@
 ### I will publish all my dash sample code here.**
 
 
-The first app is a movie application. The data is from Kaggle IMDB movie data. I am learning and referencing a dash sample application from dash gallery to build this app.
+This is my first appilcation built using dash. The data I am using is from Kaggle IMDB movie data. I built this app by learning and referencing a dash sample application from dash gallery. It helped me get familiar with dash.
 
-You can find the movies you may be interested in from this application. In addition to that, it also provide basic analysis on the trend of movies over the years.
+In this simple application, you can find movies that you may be interested in. In addition to that, it also provide basic analysis on the trend of movies over the years.
 
 
 
